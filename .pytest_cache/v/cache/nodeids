@@ -1,0 +1,8 @@
+[
+  "Test_Cases/test_login.py::Test_Login::test_login[Edge]",
+  "Test_Cases/test_login.py::Test_Login::test_login[FF]",
+  "Test_Cases/test_login.py::Test_Login::test_login[GC]",
+  "Test_Cases/test_register.py::Test_Cosmos_Registration::test_registration[Edge]",
+  "Test_Cases/test_register.py::Test_Cosmos_Registration::test_registration[FF]",
+  "Test_Cases/test_register.py::Test_Cosmos_Registration::test_registration[GC]"
+]

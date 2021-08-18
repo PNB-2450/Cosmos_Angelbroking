@@ -1,0 +1,7 @@
+{
+  "Test_Cases/test_login.py::Test_Login::test_login[Edge]": true,
+  "Test_Cases/test_login.py::Test_Login::test_login[FF]": true,
+  "Test_Cases/test_login.py::Test_Login::test_login[GC]": true,
+  "Test_Cases/test_register.py::Test_Cosmos_Registration::test_registration[Edge]": true,
+  "Test_Cases/test_register.py::Test_Cosmos_Registration::test_registration[FF]": true
+}
